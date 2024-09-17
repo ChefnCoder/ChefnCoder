@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 Hiii, I am currently into MERN Stack, on a journey to build projects that actually matters using this stack.
+
 🔭 Started DSA like usual, but in the journey fell in love with problem solving, those LC Gaphs and Contest Rating are the only dopamine boosts around.
+
 😄 Ocassionally my mind distracts me into AIML, and other cool stuffs happening in tech world
