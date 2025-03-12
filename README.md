@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=ChefnCoder)](https://git.io/streak-stats) -->
+
 <!--
 **ChefnCoder/ChefnCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,11 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 Hiii, I am currently into MERN Stack, on a journey to build projects that actually matters using this stack.
+🌱 Hiii, I'm currently diving deep into **MERN Stack & Next.js**, on a journey to build **real-world projects** that actually make an impact.  
 
 🔭 Started DSA like usual, but in the journey fell in love with problem solving, those LC Gaphs and Contest Rating are the only dopamine boosts around.
 
 😄 Ocassionally my mind distracts me into AIML, and other cool stuffs happening in tech world
+
+## 🚀 Live Projects  
+Check out some of my latest work! 👇  
+
+#### 🔍 [AI Job Portal](https://job-portal-ai.netlify.app/) : AI-powered resume matching & job application system 
+
+#### 💻 [Book My Laptop](https://book-my-laptop.netlify.app/) : A marketplace to connect buyers & sellers for used laptops 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
