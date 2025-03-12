@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ## 🚀 Live Projects  
 Check out some of my latest work! 👇  
 
-#### 🔍 [AI Job Portal](https://job-portal-ai.netlify.app/) : AI-powered resume matching & job application system 
+#### 🔍 <a href="https://job-portal-ai.netlify.app/" target="_blank" rel="noopener noreferrer">AI Job Portal</a> : AI-powered resume matching & job application system 
 
-#### 💻 [Book My Laptop](https://book-my-laptop.netlify.app/) : A marketplace to connect buyers & sellers for used laptops 
+#### 💻 <a href="https://book-my-laptop.netlify.app/" target="_blank" rel="noopener noreferrer">Book My Laptop</a>: A marketplace to connect buyers & sellers for used laptops 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
