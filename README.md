@@ -27,7 +27,7 @@ Check out some of my latest work! 👇
 
 #### 💻 <a href="https://book-my-laptop.netlify.app/" target="_blank" rel="noopener noreferrer">Book My Laptop</a>: A marketplace to connect buyers & sellers for used laptops 
 
-#### 🧠<a href="https://revision-keepr.netlify.app/" target="_blank" rel="noopener noreferrer">Keepr</a> : One-click DSA Revision vault for your coding grind.
+#### 🧠 <a href="https://revision-keepr.netlify.app/" target="_blank" rel="noopener noreferrer">Keepr</a> : One-click DSA Revision vault for your coding grind.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
