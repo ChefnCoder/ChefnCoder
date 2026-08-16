@@ -9,7 +9,7 @@ I enjoy building scalable backend systems, AI-powered applications, and develope
 </p>
 
 <p align="center">
-<a href="https://tanmay-portfolio-live.netlify.app/">Portfolio</a> •
+<a href="https://tanmay-anand.netlify.app/">Portfolio</a> •
 <a href="https://www.linkedin.com/in/tanmayanand/">LinkedIn</a> •
 <a href="mailto:tanmay2020anand@gmail.com">Email</a>
 </p>
